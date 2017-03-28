@@ -1,0 +1,56 @@
+{
+	"quiz": [
+		{
+			"question": "Describe with your own words. What is a Data Platform?",
+			"answer": "Es donde podemos almacenar y procesar datos(un dato es la unidad minima de informacion) por ejemplo Big Data y la nube(publica, privada e hibrida)"
+		},
+		{
+			"question": "In the 3 V's of big data. How would you describe Variety?",
+			"answer": "Como la obtencion de datos de todo tipo como los estructurados y no estructurados"
+		},
+		{
+			"question": "What are the elements of tidy data?",
+			"answer": "Que las variables y registros esten en una columna correspondiente y cada cambio"
+		},
+		{
+			"question": "List the most common format files you know for sharing data",
+			"answer": "excel .csv, .txt, obtenidos de la web, .json, los de bases de datos .sql"
+		},
+		{
+			"question": "What is web scrapping?",
+			"answer": "Es el modo de inseccionar u obtener informacion de paginas web, por ejemplo inspeccionar un codigo de x pagina"
+		},
+		{
+			"question": "What is data integration?",
+			"answer": "Es cuando se tiene la necesidad de integrar los volumenes de datos por ejemplo de fistintas areas para un fin "
+		},
+		{
+			"question": "What is data processing?",
+			"answer": "Es la obtencion y manipulacion de los datos para poder aprovechar la informacion que se puede obtener"
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "Limpieza, transformar, merge y forma"
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "Limpieza, transformar, merge y forma"
+		},
+		{
+			"question": "What is Data as a Service?",
+			"answer": "Son los datos como servicio y se consumen bajo demanda, pero por esa misma razon el dato cambia con el tiempo"
+		},
+		{
+			"question": "What is DataBase as a Service?",
+			"answer": "Son las que ya se encuentras predefinidas(configuradas) y se escalan de forma automatica"
+		},
+		{
+			"question": "What is data anlysis?",
+			"answer": "Es la limpieza, carga, transformacion  y modelado de los datos con un fin de producir informacion"
+		},
+		{
+			"question": "Mention some typical use cases for data analysis",
+			"answer": "Uso, retencion y adquisicion de los datos "
+		}
+	]	
+}
